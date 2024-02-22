@@ -1,0 +1,40 @@
+<Student>
+    <Name>Alex</Name>
+    <USN>1RITCS001</USN>
+    <Dept Name>CSE</Dept Name>
+</Student>
+<Department>
+    <Name>CSE</Name>
+    <ID>01</ID>
+    <Total no of enrolled students>170</Total no of enrolled students>
+</Department>
+<Student>
+    <Name>Smith</Name>
+    <USN>1RITDS040</USN>
+    <Dept Name>DS</Dept Name>
+</Student>
+<Department>
+    <Name>DS</Name>
+    <ID>02</ID>
+    <Total no of enrolled students>188</Total no of enrolled students>
+</Department>
+<Student>
+    <Name>Saliena</Name>
+    <USN>1RITCV001</USN>
+    <Dept Name>Civil</Dept Name>
+</Student>
+<Department>
+    <Name>Civil</Name>
+    <ID>03</ID>
+    <Total no of enrolled students>160</Total no of enrolled students>
+</Department>
+<Student>
+    <Name>Elizabeth</Name>
+    <USN>1RITME011</USN>
+    <Dept Name>Mechanical</Dept Name>
+</Student>
+<Department>
+    <Name>Mechanical</Name>
+    <ID>04</ID>
+    <Total no of enrolled students>150</Total no of enrolled students>
+</Department>
